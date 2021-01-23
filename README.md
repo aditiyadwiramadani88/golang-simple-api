@@ -2,6 +2,8 @@
 ```sh 
  go install go-rest-crud
 ```
+#download Mysql
+<p>create database go_restapi</p>
 
 #Api 
 
